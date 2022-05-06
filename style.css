@@ -1,0 +1,47 @@
+* {margin: 0;
+  padding: 0;
+  box-sizing: 0;}
+  
+body
+{height: 100vh;
+display: flex;
+flex-direction: column;
+}
+
+header
+{display: flex;
+height: 70px;
+background-color: #93684C;
+justify-content: space-between;
+padding-left: 70px;
+align-items: center;}
+
+
+  
+nav
+{display: flex;
+gap: 30px;
+padding-right:60px; 
+
+}
+
+nav a
+
+{font-family: 'Mulish', sans-serif;
+text-decoration: none;
+color: white;
+
+}
+
+
+nav a:hover
+{background-color: #6F4C35;
+  border-radius: 10px;
+  transition: all 0.5s;
+
+}
+
+main
+{
+flex-grow: 1;}
+
