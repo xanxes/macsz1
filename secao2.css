@@ -1,0 +1,21 @@
+
+.subtitulo
+{font-size: 4rem;
+  font-family: Soage;}
+
+.cards-tudo
+{display: flex;}
+
+.card {
+  width: 35%;
+  margin: 1%;
+  background: white;
+  color: black;
+  padding: 40px;
+  font-family: 'Mulish', sans-serif;
+  border-radius: 10px;
+  }
+
+  
+
+  
